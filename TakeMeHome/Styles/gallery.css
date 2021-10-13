@@ -1,0 +1,47 @@
+body{
+
+	height: 1080px;
+}
+img{
+	width: 12vw;
+	height: 12vw;
+}
+span{
+	position: inherit;
+	margin-top: 1vw;
+	width: 65vw;
+	text-align: center;
+	font-size: 24pt;
+}
+.GalleryMenu{
+	position: absolute;
+	opacity: 0.95;	
+	left: 15vw;
+	width: 70vw;
+	right: 15vw;
+	height: 90%;
+	top:100px;
+	background-color: #1E1E2C;
+	border-radius: 15px;
+}
+.footer{
+	
+	position: absolute;
+	opacity: 0.9;
+	top:105vh;
+	left: 15vw;
+	width: 70vw;
+	right: 15vw;
+	height: 50px;
+	background-color: #2D2D44;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	text-align: center;
+}
+.wrapper {
+	margin-left: 5vw;
+	margin-right: 5vw;
+	margin-top: 5vw;
+  display: grid;
+  grid-template-columns: 15vw 15vw 15vw 15vw;
+}

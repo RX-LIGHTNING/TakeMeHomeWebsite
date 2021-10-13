@@ -1,0 +1,78 @@
+body{
+	height: 1670px;
+}
+img{
+	width: 20vw;
+	height: 20vw;
+}
+span{
+	position: inherit;
+	margin-top: 1vw;
+	width: 65vw;
+	text-align: center;
+	font-size: 24pt;
+}
+.StoryMenu{
+	position: absolute;
+	opacity: 0.95;	
+	left: 15vw;
+	width: 70vw;
+	right: 15vw;
+	height: 150%;
+	top:100px;
+	background-color: #1E1E2C;
+	border-radius: 15px;
+}
+.footer{
+
+	position: absolute;
+	opacity: 0.9;
+	top:166vh;
+	left: 15vw;
+	width: 70vw;
+	right: 15vw;
+	height: 50px;
+	background-color: #2D2D44;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	text-align: center;
+}
+.FirstBlock{
+	position: inherit;
+	margin-left: 37vw;
+	margin-top: 3vw;
+	width: 30vw;
+	text-align: center;
+}
+.SecondBlock{
+	position: inherit;
+	margin-left: 37vw;
+	margin-top: 29vw;
+	width: 30vw;
+	text-align: center;
+}
+.ThirdBlock{
+	position: inherit;
+	margin-left: 37vw;
+	margin-top: 54vw;
+	width: 30vw;
+	text-align: center;
+}
+.FirstBlockPicture{
+	position: inherit;
+	margin-left: 5vw;
+	margin-top: 3vw;
+	text-align: center;
+}
+.SecondBlockPicture{
+		position: inherit;
+	margin-left: 5vw;
+	margin-top: 28vw;
+	text-align: center;
+}
+.ThirdBlockPicture{
+		position: inherit;
+	margin-left: 5vw;
+	margin-top: 54vw;
+	text-align: center;
+}
